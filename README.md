@@ -2,9 +2,11 @@
   <img src="https://github.com/AssisBernardo/AssisBernardo/blob/main/images/presentation.gif" />
 </p>
 
-<p align="center"></p>
+<p align="center">
+  Welcome to my github page 👋, I'm not a very sociable dev 😥, but as always I'm trying to improve myself 😉, I'm going to start sharing some really cool ideas here 🤔, and if you like it, never forget to send me a little star 🌟.
+</p>
 
-<h2 align="center">Technologies that I currently work or study</h2>
+<h2 align="center">Technologies that I currently work or study 🤓</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -24,4 +26,17 @@
   <img src="https://img.shields.io/badge/-Firebase-F29D0C?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<h2 align="center">Hard work ahead 😅</h2>
+
+<p align = "center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=AssisBernardo&show_icons=true&theme=radical&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssisBernardo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<h2 align="center">The snake can't be missing 🐍</h2>
+
+<p align="center">
+  <img src="https://github.com/AssisBernardo/AssisBernardo/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
