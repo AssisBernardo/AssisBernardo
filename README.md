@@ -31,8 +31,8 @@
 <h2 align="center">Hard work ahead 😅</h2>
 
 <p align = "center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=AssisBernardo&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssisBernardo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src="https://github-readme-stats.vercel.app/api?username=AssisBernardo&show_icons=true&theme=algolia&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssisBernardo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=algolia">
 </p>
 
 <h2 align="center">The snake can't be missing 🐍</h2>
