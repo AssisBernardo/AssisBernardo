@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Welcome to my github page 👋, I'm not a very sociable dev 😥, but as always I'm trying to improve myself 😉, I'm going to start sharing some really cool ideas here 🤔, and if you like it, never forget to send me a little star 🌟.
+  Welcome to my github page 👋, I'm not a very sociable dev 😥, but as always I'm trying to improve myself 😉, I'm going to start sharing some really cool ideas here 🤔, I hope you like it 🌟.
 </p>
 
 <h2 align="center">Technologies that I currently work or study 🤓</h2>
